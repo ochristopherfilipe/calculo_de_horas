@@ -1,2 +1,3 @@
-# calculo_de_horas
-Calcular as horas necessárias para estudar a bolsa Santander Coders 2023 ada.tech
+# Cálculo de horas
+
+Esta é uma brincadeira para calcular quantas horas de estudo por dia são necessárias para concluir a bolsa de estudos Santander Coders 2023 a tempo.
